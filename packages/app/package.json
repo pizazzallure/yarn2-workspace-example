@@ -4,6 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "lib-a": "workspace:*",
-    "lib-b": "workspace:*"
+    "lib-b": "workspace:*",
+    "xmlbuilder": "~11.0.0"
   }
 }
