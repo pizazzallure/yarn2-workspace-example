@@ -2,8 +2,6 @@
   "name": "package-c",
   "version": "1.0.0",
   "dependencies": {
-    "marked": "0.3.6",
-    "serialize-javascript": "1.7.0",
-    "growl": "1.9.2"
+    "react": "^18.2.0"
   }
 }
