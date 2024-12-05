@@ -1,5 +1,5 @@
 {
-    "name": "yarn2-workspaces-project",
+    "name": "yarn-workspaces-project",
     "private": true,
     "version": "1.0.0",
     "workspaces": [
@@ -9,3 +9,4 @@
         "lodash": "4.17.21"
     }
 }
+

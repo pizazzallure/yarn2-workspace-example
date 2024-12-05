@@ -1,5 +1,5 @@
 {
-  "name": "lib-a",
+  "name": "@scope/lib-a",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
