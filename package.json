@@ -6,6 +6,7 @@
         "packages/*"
     ],
     "dependencies": {
+        "@scope/app": "workspace:*",
         "lodash": "4.17.21"
     }
 }
