@@ -8,3 +8,8 @@ excludes:
   - pattern: "ort/*"
     reason: "TEST_OF"
     comment: "Github Action Definitions"
+  scopes:
+  - pattern: "devDependencies"
+    reason: "DEV_DEPENDENCY_OF"
+    comment: >-
+      Packages for development only. Not part of released artifacts.
