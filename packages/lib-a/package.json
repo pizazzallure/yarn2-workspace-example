@@ -4,9 +4,10 @@
   "main": "index.js",
   "dependencies": {
     "axios": "0.21.1",
-    "growl": "1.9.2"
+    "growl": "1.9.2",
+    "prettier": "3.5.1"
   },
   "devDependencies": {
-    "prettier": "*"
+    "concat-stream": "^2.0.0"
   }
 }
