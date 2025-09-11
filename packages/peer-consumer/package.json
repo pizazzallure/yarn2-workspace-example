@@ -1,0 +1,9 @@
+{
+  "name": "peer-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "peer-lib": "workspace:*",
+    "react": "^18.2.0"
+  }
+}
