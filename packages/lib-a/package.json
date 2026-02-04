@@ -5,8 +5,7 @@
   "dependencies": {
     "axios": "0.21.1",
     "growl": "1.9.2",
-    "lodash": "patch:lodash@npm%3A4.17.21#~/.yarn/patches/lodash-npm-4.17.21-6382451519.patch",
-    "prettier": "3.5.1"
+    "lodash": "patch:lodash@npm%3A4.17.21#~/.yarn/patches/lodash-npm-4.17.21-6382451519.patch"
   },
   "devDependencies": {
     "concat-stream": "^2.0.0"
